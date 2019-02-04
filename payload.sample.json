@@ -1,0 +1,15 @@
+{
+  "api_key": "FILL_YOUR_API_KEY",
+  "email": "pagerduty@example.com",
+  "start_date": "2019-01-01T21:55:00Z",
+  "duration": 15,
+  "frequency": 24,
+  "repeat": 7,
+  "description": "Auto generated",
+  "services": [
+    {
+      "id": "FILL_YOUR_SERVICE_ID",
+      "type": "service_reference"
+    }
+  ]
+}
